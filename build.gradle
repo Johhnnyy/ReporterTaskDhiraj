@@ -23,7 +23,7 @@ dependencies {
     
     compile 'org.testng:testng:6.11'
 	compile 'io.appium:java-client:4.1.2'
-	compile 'com.experitest:seetest-client:20.7'
+	compile 'com.experitest:appium-seetest-extension:20.7'
 	compile 'com.experitest:repo:+'
 }
 
